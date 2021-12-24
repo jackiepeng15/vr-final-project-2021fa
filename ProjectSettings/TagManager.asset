@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RangedWeapon
+  - MeleeWeapon
+  - DefenseWeapon
+  - Bullet
+  - EnemyBullet
+  - Z_rightArm
+  - Z_rightLeg
+  - Z_leftArm
+  - Z_leftLeg
+  - Enemy
+  - Debris
+  - Environment
+  - LoseGame
+  - WinGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hands
+  - Water
+  - UI
+  - Walkable
+  - PhysicsButton
+  - Enemy
+  - Grabbable
+  - Debris
+  - Player
+  - Bullet
+  - Surface
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
